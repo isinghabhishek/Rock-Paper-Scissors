@@ -1,4 +1,5 @@
 # Rock Paper Scissors Game
+Using Reactjs, JavaScript, HTML, CSS
 
 1. The Rock beats the Scissors 
 2. The Scissors beats the Paper
